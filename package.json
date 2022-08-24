@@ -3,8 +3,19 @@
   "version": "0.0.0",
   "private": true,
   "dependencies": {
-    "react": "^18.1.0",
-    "react-dom": "^18.1.0"
+    "@babel/helper-module-imports": "7.18.6",
+    "@fortawesome/fontawesome-svg-core": "6.1.2",
+    "@fortawesome/free-regular-svg-icons": "6.1.2",
+    "@fortawesome/free-solid-svg-icons": "6.1.2",
+    "@fortawesome/react-fontawesome": "0.2.0",
+    "@popperjs/core": "2.11.6",
+    "babel-plugin-macros": "3.1.0",
+    "bootstrap": "5.2.0",
+    "events": "^3.3.0",
+    "lodash": "4.17.21",
+    "module": "1.2.5",
+    "react": "18.2.0",
+    "react-dom": "18.2.0"
   },
   "scripts": {
     "start": "react-scripts start",
